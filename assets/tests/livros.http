@@ -1,1 +1,9 @@
-GET https://8080-turquoise-piranha-3enqfhds.ws-us17.gitpod.io/filmes
+GET https://8080-lime-pony-ry4qu9ft.ws-us17.gitpod.io/filmes
+
+###
+POST https://8080-lime-pony-ry4qu9ft.ws-us17.gitpod.io/filmes
+Content-Type: application/json
+
+{
+    "titulo" : "Exemplo"
+}
